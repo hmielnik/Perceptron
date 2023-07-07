@@ -1,0 +1,20 @@
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\obj\Debug\Perceptron.csprojAssemblyReference.cache
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Hubert\source\repos\Neuron\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\obj\Debug\Perceptron.csprojAssemblyReference.cache
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+D:\Projekty\Szkoła\Systemy uczące się\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
